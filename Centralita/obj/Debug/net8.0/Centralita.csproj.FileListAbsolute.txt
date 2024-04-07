@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Centralita\Centralita\bin\Debug\net8.0\Centralita.exe
+C:\Users\aleja\source\repos\Centralita\Centralita\bin\Debug\net8.0\Centralita.deps.json
+C:\Users\aleja\source\repos\Centralita\Centralita\bin\Debug\net8.0\Centralita.runtimeconfig.json
+C:\Users\aleja\source\repos\Centralita\Centralita\bin\Debug\net8.0\Centralita.dll
+C:\Users\aleja\source\repos\Centralita\Centralita\bin\Debug\net8.0\Centralita.pdb
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.dll
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\refint\Centralita.dll
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.pdb
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\Centralita.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Centralita\Centralita\obj\Debug\net8.0\ref\Centralita.dll
